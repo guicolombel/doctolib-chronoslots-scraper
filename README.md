@@ -12,7 +12,7 @@ If you are not interested in scraping and just want to get a vaccine: please vis
 ## Installation
 
 ```
-git clone https://github.com/metaphysicalfgo/doctolib-chronoslots-scraper.git
+git clone https://github.com/guicolombel/doctolib-chronoslots-scraper.git
 pip3 install -r requirements.txt
 ```
 
