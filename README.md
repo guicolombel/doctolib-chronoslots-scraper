@@ -3,12 +3,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
-## Description
-
-This scraper can be used in an experimental way for people between 18 and 50 years old to find and register to an available vaccination slot in the next following days (what is commonly called a *chronodose*).
-
-If you are not interested in scraping and just want to get a vaccine: please visit [ViteMaDose from covidtracker](https://vitemadose.covidtracker.fr) (which I am not affiliate to but like it very much), it is way (way) more user-centric 😊
-
 ## Installation
 
 ```
